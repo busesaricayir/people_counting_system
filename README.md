@@ -1,4 +1,4 @@
-# 🚶 Kişi Sayma ve Takip Sistemi (KSTS)
+# 🚶 People Counting System
 
 > **Real-time people counting and tracking system using YOLOv3 and centroid tracking.**
 
