@@ -43,7 +43,7 @@ Counter Update + Annotated Output
 ## 📁 Project Structure
 
 ```
-ksts/
+people_counting_system/
 │
 ├── utils/
 │   ├── centroidtracker.py      # Centroid-based multi-object tracker
@@ -67,8 +67,8 @@ ksts/
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/busesaricayir/ksts.git
-cd ksts
+git clone https://github.com/busesaricayir/people_counting_system.git
+cd people_counting_system
 pip install -r requirements.txt
 ```
 
