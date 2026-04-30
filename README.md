@@ -1,7 +1,6 @@
 # 🚶 Kişi Sayma ve Takip Sistemi (KSTS)
 
 > **Real-time people counting and tracking system using YOLOv3 and centroid tracking.**
-> Developed during internship at **Forte Bilgi İletişim Teknolojileri A.Ş.** · July 2023
 
 ---
 
